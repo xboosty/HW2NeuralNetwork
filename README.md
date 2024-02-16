@@ -1,4 +1,4 @@
-# HW2NeuralNetwork
+AiDateNeuralNet
 
 # Install necessary packages (usually done in a Jupyter notebook or Python script)
 !pip install matplotlib
